@@ -1,4 +1,4 @@
 opencart-bootstrap
 ==================
 
-Atualização do tema padrão OpenCart para bootstrap 3.
+default theme to upgrade OpenCart bootstrap 3.
